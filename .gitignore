@@ -1,0 +1,4 @@
+*.apk
+build/
+!.gitignore
+.idea
